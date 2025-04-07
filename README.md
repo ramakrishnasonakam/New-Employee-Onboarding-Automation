@@ -23,7 +23,18 @@ Notifies HR upon task completion and updates checklist entries
 **Screenshots**
 
 Form Input Preview- 
+<img width="927" alt="image" src="https://github.com/user-attachments/assets/5c679cab-bf0b-4af2-a41c-bc583860e534" />
 
-Excel Tracker Structure
+Excel Tracker Structure-
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/1f86cfe1-5180-423b-b2f6-062407765983" />
 
-Power Automate Flow Diagram
+
+Power Automate Flow Diagram-
+
+1. Trigger action: Update excel after a new response is submitted through Forms
+<img width="1208" alt="image" src="https://github.com/user-attachments/assets/a493c1ee-966c-4e93-a608-add149cd6b8b" />
+
+2. Trigger action: Notify HR when status of a task is updated to 'Completed'
+   <img width="1352" alt="image" src="https://github.com/user-attachments/assets/4337c94f-3a4b-4a44-b255-e38fab04b28f" />
+
+ 
